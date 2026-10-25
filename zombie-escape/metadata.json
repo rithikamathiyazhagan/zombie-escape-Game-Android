@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Escape",
+  "description": "Pixel art top-down survival game with BFS pathfinding zombie AI, touch controls, sound effects, analytics, and 4 escape levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

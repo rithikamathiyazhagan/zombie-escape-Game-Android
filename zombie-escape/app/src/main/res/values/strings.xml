@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zombie Escape</string>
+    <string name="game_title">Zombie Escape</string>
+    <string name="start_game">Start Escape</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="analytics_title">Survival Analytics</string>
+    <string name="settings">Settings</string>
+    <string name="level_label">Level</string>
+    <string name="health">Health</string>
+    <string name="stamina">Stamina</string>
+    <string name="key_status">Key</string>
+    <string name="zombie_status">Zombie AI</string>
+</resources>
